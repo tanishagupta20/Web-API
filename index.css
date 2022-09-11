@@ -1,0 +1,74 @@
+button{
+    background-color: rgb(36, 153, 36);
+    color: white;
+    height : 30px;
+    width : 100px;
+    border-radius: 5px;
+    border : none;
+    cursor: pointer;
+  }
+  
+  h1{
+    margin: 0 auto;
+  }
+  
+  input{
+    width : 350px;
+    height: 28px;
+  }
+  
+  #user-det{
+    display: flex;
+  }
+  
+  #name-user{
+    padding-top: 20px;
+    padding-bottom: 10px;
+  }
+  
+  #nameSpan{
+    color: gray;
+    font-size: 1.3rem;
+  }
+  
+  .atTheRate{
+    color : gray;
+  }
+  
+  #usnLink{
+    color: rgb(128, 209, 247);
+  }
+  
+  #act-user{
+    padding-left: 15px;
+    color: gray;
+  }
+  
+  #userImage{
+    height: 70px;
+    width: 70px;
+    border: 1px solid gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #repos-list{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .repoName{
+    background-color: rgb(245, 132, 3);
+    color: white;
+    margin: 5px;
+    border-radius: 5px;
+    height: 40px;
+    width: 180px;
+    padding : 5px;
+    text-align: center;
+  }
+  
+  .repoLinks{
+    text-decoration: none;
+  }  
